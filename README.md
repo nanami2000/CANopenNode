@@ -1,4 +1,4 @@
-CANopenNode
+CANopenNodetest
 ===========
 
 CANopenNode is free and open source CANopen protocol stack.
