@@ -1,5 +1,5 @@
 /**
- * Main CANopenNode file.
+ * test branch CANopenNode file.
  *
  * @file        CANopen.h
  * @ingroup     CO_CANopen
