@@ -1,5 +1,5 @@
 CANopenNode
-For test
+Today
 ===========
 
 CANopenNode is free and open source CANopen protocol stack.
